@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pedidos.txt</file>
+    </qresource>
+</RCC>
